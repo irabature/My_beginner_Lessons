@@ -10,6 +10,14 @@ four_name = "Ejura Anthony"
 message = "Thank you!"
 message2 = "We are glad you are here at Jorad Consulting Services."
 
-final = f"Thank you! {full_name}\nWe are glad you are here at Jorad Consulting Services"
+final = f"Thank you! {four_name} \n We are glad you are here at Jorad Consulting Services"
+
+print(final)
+
+print(final)
+
+print(final)
+
+print(final)
 
 print(final)
