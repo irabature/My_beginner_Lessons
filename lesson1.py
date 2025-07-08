@@ -12,9 +12,9 @@ print(name ,age)
 print(name ,age ,"Welcome to my first coding class with Sir Ubong.")
 
 
+print("I will succeed")
 
-
-
+print(name + str(age))
 
 
 
